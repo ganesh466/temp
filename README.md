@@ -28,7 +28,6 @@ dataset/
 ├── [Person N]_0002.jpg
 └── ...
 
-
 ## Methodology
 1. **Dataset Preparation**: Creating varying resolution datasets.
 2. **Face Detection**: Comparing Haar Cascade and MTCNN, selecting MTCNN for accuracy.
